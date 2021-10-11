@@ -33,7 +33,7 @@ protobuf {
             artifact = "io.grpc:protoc-gen-grpc-java:1.35.0"
         }
         id(reactorId) {
-            artifact = "com.salesforce.servicelibs:reactor-grpc:1.0.1"
+            artifact = "com.salesforce.servicelibs:reactor-grpc:1.2.3"
         }
     }
     dependencies {
