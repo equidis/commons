@@ -10,7 +10,7 @@ val grpcServicesVersion: String by project
 val grpcReactorVersion: String by project
 
 plugins {
-    id("com.google.protobuf") version "0.8.15"
+    id("com.google.protobuf") version "0.8.19"
 }
 
 dependencies {
