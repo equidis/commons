@@ -26,7 +26,7 @@ protobuf {
     val grpcId = "grpc"
     val reactorId = "reactor"
     protoc {
-        artifact = "com.google.protobuf:protoc:3.15.1"
+        artifact = "com.google.protobuf:protoc:3.21.4"
     }
     plugins {
         id(grpcId) {
